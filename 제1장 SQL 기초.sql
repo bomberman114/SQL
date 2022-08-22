@@ -41,7 +41,7 @@ update `user1` set
                 `hp`='010-1234-1001',
                 `age`=27
             where
-                `id`='A101';
+                `uid`='A101';
 
 #실습1-6
 
